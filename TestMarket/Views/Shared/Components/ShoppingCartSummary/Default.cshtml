@@ -1,0 +1,14 @@
+﻿@model ShoppingCartDTO
+
+@if (Model.ShoppingCart.GetShoppingCartItemsWithProducts().Count > 0)
+{
+    <li class="nav-item">
+        <a class="nav-link" asp-controller="ShoppingCart" asp-action="Index">
+            Cart
+            <i class="fa fa-shopping-cart"></i>
+            <span id="cart-status">
+                @Model.ShoppingCart.GetShoppingCartItemsWithProducts().Count
+            </span>
+        </a>
+    </li>
+}

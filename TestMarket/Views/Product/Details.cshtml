@@ -1,0 +1,23 @@
+﻿@model Product
+
+<div class="row">
+    <div class="col-5">
+        <div class="card">
+            <img class="card-img-top" src="@Model.ImageUrl" alt="@Model.Name">
+            <div class="card-body">
+                <h4 class="card-title">@Model.Name</h4>
+                <h4>@Model.Price.ToString("c")</h4>
+                <div class="mb-2">
+                    <a class="btn btn-success mr-3"
+                       asp-controller="ShoppingCart"
+                       asp-action="AddToShoppingCart"
+                       asp-route-productId="@Model.ProductId">Add to cart</a>
+
+                    <a class="btn btn-primary"
+                       asp-controller="Home"
+                       asp-action="Index">Back</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

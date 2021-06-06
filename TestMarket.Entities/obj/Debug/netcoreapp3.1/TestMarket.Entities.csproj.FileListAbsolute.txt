@@ -1,0 +1,17 @@
+C:\Users\Kristijan\source\repos\TestMarket.Entities\bin\Debug\netcoreapp3.1\TestMarket.Entities.deps.json
+C:\Users\Kristijan\source\repos\TestMarket.Entities\bin\Debug\netcoreapp3.1\TestMarket.Entities.dll
+C:\Users\Kristijan\source\repos\TestMarket.Entities\bin\Debug\netcoreapp3.1\TestMarket.Entities.pdb
+C:\Users\Kristijan\source\repos\TestMarket.Entities\obj\Debug\netcoreapp3.1\TestMarket.Entities.AssemblyInfoInputs.cache
+C:\Users\Kristijan\source\repos\TestMarket.Entities\obj\Debug\netcoreapp3.1\TestMarket.Entities.AssemblyInfo.cs
+C:\Users\Kristijan\source\repos\TestMarket.Entities\obj\Debug\netcoreapp3.1\TestMarket.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\source\repos\TestMarket.Entities\obj\Debug\netcoreapp3.1\TestMarket.Entities.dll
+C:\Users\Kristijan\source\repos\TestMarket.Entities\obj\Debug\netcoreapp3.1\TestMarket.Entities.pdb
+C:\Users\Kristijan\source\repos\TestMarketApp\TestMarket.Entities\bin\Debug\netcoreapp3.1\TestMarket.Entities.deps.json
+C:\Users\Kristijan\source\repos\TestMarketApp\TestMarket.Entities\bin\Debug\netcoreapp3.1\TestMarket.Entities.dll
+C:\Users\Kristijan\source\repos\TestMarketApp\TestMarket.Entities\bin\Debug\netcoreapp3.1\TestMarket.Entities.pdb
+C:\Users\Kristijan\source\repos\TestMarketApp\TestMarket.Entities\obj\Debug\netcoreapp3.1\TestMarket.Entities.csprojAssemblyReference.cache
+C:\Users\Kristijan\source\repos\TestMarketApp\TestMarket.Entities\obj\Debug\netcoreapp3.1\TestMarket.Entities.AssemblyInfoInputs.cache
+C:\Users\Kristijan\source\repos\TestMarketApp\TestMarket.Entities\obj\Debug\netcoreapp3.1\TestMarket.Entities.AssemblyInfo.cs
+C:\Users\Kristijan\source\repos\TestMarketApp\TestMarket.Entities\obj\Debug\netcoreapp3.1\TestMarket.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\source\repos\TestMarketApp\TestMarket.Entities\obj\Debug\netcoreapp3.1\TestMarket.Entities.dll
+C:\Users\Kristijan\source\repos\TestMarketApp\TestMarket.Entities\obj\Debug\netcoreapp3.1\TestMarket.Entities.pdb
